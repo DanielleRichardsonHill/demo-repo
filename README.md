@@ -1,6 +1,6 @@
 # this is markdown
 
-# demp-repo
+# demo-repo
 
 Because you can just type a paragraph
 
